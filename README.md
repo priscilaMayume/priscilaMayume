@@ -20,6 +20,5 @@ Hi, I'm Priscila Mayume 👋
  
  ##
  
-<div> 
-  ![Snake animation](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
-</div>
+## Watch my contribution graph eaten by the snake 🐍
+![snake gif](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.gif)
