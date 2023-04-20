@@ -15,5 +15,5 @@ Hi, I'm Priscila Mayume 👋
  ##
  
 <div> 
-  ![Snake animation](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
 </div>
