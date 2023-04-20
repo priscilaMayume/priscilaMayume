@@ -18,10 +18,6 @@ Hi, I'm Priscila Mayume 👋
   <a href="https://www.linkedin.com/in/priscilamayume/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- ##
+## Watch my contribution graph eaten by the snake 🐍
  
-## Watch my contribution graph eaten by the snake 
-<div> 
-  ![Snake animation](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
-</div>
   ![snake gif](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.gif)
