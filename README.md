@@ -1,7 +1,7 @@
 Hi, I'm Priscila Mayume 👋
 
 - 🐞 I'm currently working in software testing.
-- 🌱 I'm currently learning software testing automation: API Rest, Web, Mobile (Android).
+- 🌱 I do software test automation: API Rest, Web, Mobile (Android).
 
  ##
  
