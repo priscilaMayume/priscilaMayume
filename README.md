@@ -20,7 +20,7 @@ Hi, I'm Priscila Mayume 👋
  
  ##
  
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilaMayume&theme=tokyonight&hide_border=true">
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilaMayume&theme=dracula&hide_border=true">
  
 ## Watch my contribution graph eaten by the snake 🐍
  
