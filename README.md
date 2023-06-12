@@ -11,17 +11,15 @@ Hi, I'm Priscila Mayume 👋
 </div>
 
  ##
-
+ 
 <div> 
   <a href="https://github.com/priscilaMayume">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaMayume&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaMayume&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="203cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaMayume&layout=compact&langs_count=8&theme=dracula&hide_progress=true"/> 
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilaMayume&theme=dracula">
 </div>
  
  ##
  
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilaMayume&theme=dracula&hide_border=true">
- 
-## Watch my contribution graph eaten by the snake 🐍
+ ## Watch my contribution graph eaten by the snake 🐍
  
   ![snake gif](https://github.com/priscilaMayume/priscilaMayume/blob/output/github-contribution-grid-snake.svg)
