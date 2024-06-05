@@ -14,7 +14,7 @@ Hi, I'm Priscila Mayume 👋
  
 <div> 
   <a href="https://github.com/priscilaMayume">
-  <img height="185cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaMayume&layout=compact&langs_count=8&theme=dracula&hide_progress=true"/> 
+  <img height="185cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaMayume&layout=compact&langs_count=10&theme=dracula&hide_progress=true"/> 
   <img style="border: 1px solid white; border-radius: 4px;" height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilaMayume&theme=dracula">
 </div>
  
